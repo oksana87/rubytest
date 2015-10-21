@@ -70,7 +70,7 @@ Given(/^user is logged into MAT application$/) do
   p r.content
 
 
-  ## TODO: 1. Put cookies from resp.content to browser (but maybe this is not required)
+  ## TODO: 1. Put    cookies from resp.content to browser (but maybe this is not required)
   ## TODO: 2. extract form data from resp.content and follow form redirection. Or inject this data to browser.
 end
 
