@@ -1,0 +1,8 @@
+# A sample Gemfile
+source 'https://rubygems.org'
+gem 'capybara'
+gem 'cucumber', '2.0.2'
+gem 'selenium-webdriver'
+gem 'rubyntlm'
+gem 'httpclient'
+

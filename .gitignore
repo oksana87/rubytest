@@ -10,7 +10,7 @@
 /tmp/
 
 ## Specific to RubyMotion:
-.dat*
+.dat*x
 .repl_history
 build/
 
